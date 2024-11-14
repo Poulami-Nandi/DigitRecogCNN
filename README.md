@@ -1,4 +1,4 @@
-# Digit Recognition Using Convolutional Neural Network (CNN)
+# Single Digit Recognition Using Convolutional Neural Network (CNN)
 
 This repository contains a project for recognizing handwritten digits using the popular MNIST dataset and a Convolutional Neural Network (CNN). The goal is to classify grayscale images of digits (0-9) with high accuracy.
 
