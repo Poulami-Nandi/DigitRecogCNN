@@ -36,3 +36,9 @@ The model is a Convolutional Neural Network (CNN) with the following structure:
    ```bash
    git clone https://github.com/Poulami-Nandi/SingleDigitRecogCNN.git
    cd SingleDigitRecogCNN
+
+## Results
+Final Training Accuracy: 0.9953
+Final Validation Accuracy: 0.9876
+Final Training Loss: 0.0157
+Final Validation Loss: 0.0468
