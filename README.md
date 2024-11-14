@@ -34,5 +34,5 @@ The model is a Convolutional Neural Network (CNN) with the following structure:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/digit-recognition.git
-   cd digit-recognition
+   git clone https://github.com/Poulami-Nandi/SingleDigitRecogCNN.git
+   cd SingleDigitRecogCNN
